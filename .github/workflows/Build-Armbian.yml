@@ -18,6 +18,7 @@ on:
           - 'nanopi-r3s'
           - 'onecloud'
           - 'station-m2'
+          - 'smart-am40'
       BRANCH:
         description: 'Kernel branch'
         default: 'current'
