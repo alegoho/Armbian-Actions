@@ -80,7 +80,7 @@ on:
           - 'no'
       APPLY_PATCHES:
         description: 'Apply patches'
-        default: 'yes'
+        default: 'no'
         required: false
         type: choice
         options:
